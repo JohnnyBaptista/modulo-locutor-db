@@ -87,7 +87,8 @@
       "src": "",
       "type": "Programete",
       "date": "12/08",
-      "time": "5 min"
+      "time": "5 min",
+      "script": "Roteiro top 1 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi velit odio, posuere non sagittis ac, euismod in neque. Ut ornare risus at velit convallis, sit amet consectetur diam pellentesque. Proin porttitor arcu odio, sit amet dignissim lacus vulputate a. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Cras elit dui, dictum et massa et, iaculis blandit magna. Aliquam commodo vel eros at consequat. Integer non tellus eget nulla dictum aliquet. Praesent sit amet convallis nulla, pulvinar facilisis quam. Maecenas ut lorem nec nibh elementum facilisis quis at felis. Nullam vitae blandit orci, ac pulvinar odio."
     },
     {
       "title": "Rádio JP",
@@ -96,7 +97,8 @@
       "src": "",
       "type": "Spot Comercial",
       "date": "12/08",
-      "time": "5 min"
+      "time": "5 min",
+      "script": "Roteiro top 2 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi velit odio, posuere non sagittis ac, euismod in neque. Ut ornare risus at velit convallis, sit amet consectetur diam pellentesque. Proin porttitor arcu odio, sit amet dignissim lacus vulputate a. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Cras elit dui, dictum et massa et, iaculis blandit magna. Aliquam commodo vel eros at consequat. Integer non tellus eget nulla dictum aliquet. Praesent sit amet convallis nulla, pulvinar facilisis quam. Maecenas ut lorem nec nibh elementum facilisis quis at felis. Nullam vitae blandit orci, ac pulvinar odio."
     },
     {
       "title": "Jovem Pan FM",
@@ -106,7 +108,8 @@
         "https://s3-alpha-sig.figma.com/img/67de/acd1/c0b691e2c870e29cd375c67150dd5a44?Expires=1577059200&Signature=HYlNb22JmNdyff8AwrU81aV2d2zsSaiyIazgFnFYmaA4nsAHNSR35hKvVu3-J5sQftS-qN1RU7RgW10Ij3A-RDaKoODMu4QQqYddc092odXFWjWr5VzKjuS8Ue6O~hXikgBNNA5asvMVw4KoPSwERKt1Abs0pWSZRtZP~pCyKVp9foe1PBqbxzQmRfrfqY02W4dJ61UQLRTU0G9trszSodHkd6MZGnQTBzwYIGT~6KX2WzDNAxj2IBS9HAma9N5G5KDvNZEFPHZmSV6FtfUho5DxR8nmxLbIwqryGh4J6qgAV8dg3A6Fe5yIdZGylNAa7~YrfpSpRKHE2GAgxp4qzA__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA",
       "type": "Programa",
       "date": "12/08",
-      "time": "5 min"
+      "time": "5 min",
+      "script": "Roteiro top 3 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi velit odio, posuere non sagittis ac, euismod in neque. Ut ornare risus at velit convallis, sit amet consectetur diam pellentesque. Proin porttitor arcu odio, sit amet dignissim lacus vulputate a. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Cras elit dui, dictum et massa et, iaculis blandit magna. Aliquam commodo vel eros at consequat. Integer non tellus eget nulla dictum aliquet. Praesent sit amet convallis nulla, pulvinar facilisis quam. Maecenas ut lorem nec nibh elementum facilisis quis at felis. Nullam vitae blandit orci, ac pulvinar odio."
     }
   ],
   "profile": {
