@@ -77,7 +77,7 @@
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque finibus diam enim, vel laoreet quam venenatis nec.",
       "rate": 3,
       "minPrice": "R$40,00"
-    },
+    }
   ],
   "profile": {
     "name": "typicode"
