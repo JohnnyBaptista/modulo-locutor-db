@@ -79,6 +79,36 @@
       "minPrice": "R$40,00"
     }
   ],
+  "jobs": [
+    {
+      "title": "Rádio Nº1 FM/AM",
+      "description": "Precisamos de um programete para o programa noturno",
+      "avatar": "Nº1",
+      "src": "",
+      "type": "Programete",
+      "date": "12/08",
+      "time": "5 min"
+    },
+    {
+      "title": "Rádio JP",
+      "description": "Gostaríamos de um spot para as casas Bahia",
+      "avatar": "JP",
+      "src": "",
+      "type": "Spot Comercial",
+      "date": "12/08",
+      "time": "5 min"
+    },
+    {
+      "title": "Jovem Pan FM",
+      "description": "Gravação do programa pânico na rádio",
+      "avatar": "JP",
+      "src":
+        "https://s3-alpha-sig.figma.com/img/67de/acd1/c0b691e2c870e29cd375c67150dd5a44?Expires=1577059200&Signature=HYlNb22JmNdyff8AwrU81aV2d2zsSaiyIazgFnFYmaA4nsAHNSR35hKvVu3-J5sQftS-qN1RU7RgW10Ij3A-RDaKoODMu4QQqYddc092odXFWjWr5VzKjuS8Ue6O~hXikgBNNA5asvMVw4KoPSwERKt1Abs0pWSZRtZP~pCyKVp9foe1PBqbxzQmRfrfqY02W4dJ61UQLRTU0G9trszSodHkd6MZGnQTBzwYIGT~6KX2WzDNAxj2IBS9HAma9N5G5KDvNZEFPHZmSV6FtfUho5DxR8nmxLbIwqryGh4J6qgAV8dg3A6Fe5yIdZGylNAa7~YrfpSpRKHE2GAgxp4qzA__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA",
+      "type": "Programa",
+      "date": "12/08",
+      "time": "5 min"
+    }
+  ],
   "profile": {
     "name": "typicode"
   }
