@@ -5,6 +5,96 @@
       "title": "hello"
     }
   ],
+  "contratos": [
+    {
+      "id_contrato": 1,
+      "id_locutor": 2,
+      "id_radio": 1,
+      "servicos": {
+        "programas": {
+          "qnt": 1,
+          "tempo": 60,
+          "total": 300
+        },
+        "programetes": {
+          "qnt": 2,
+          "tempo": 6,
+          "total": 80
+        },
+        "spots": {
+          "qnt": 8,
+          "total": 180
+        }
+      },
+      "pendente": true
+    },
+    {
+      "id_contrato": 2,
+      "id_locutor": 2,
+      "id_radio": 3,
+      "servicos": {
+        "programas": {
+          "qnt": 0,
+          "tempo": 0,
+          "total": 0
+        },
+        "programetes": {
+          "qnt": 3,
+          "tempo": 4,
+          "total": 68.5
+        },
+        "spots": {
+          "qnt": 2,
+          "total": 60
+        }
+      },
+      "pendente": false
+    },
+    {
+      "id_contrato": 3,
+      "id_locutor": 1,
+      "id_radio": 2,
+      "servicos": {
+        "programas": {
+          "qnt": 5,
+          "tempo": 45,
+          "total": 450
+        },
+        "programetes": {
+          "qnt": 1,
+          "tempo": 8,
+          "total": 90
+        },
+        "spots": {
+          "qnt": 0,
+          "total": 0
+        }
+      },
+      "pendente": false
+    },
+    {
+      "id_contrato": 4,
+      "id_locutor": 1,
+      "id_radio": 6,
+      "servicos": {
+        "programas": {
+          "qnt": 1,
+          "tempo": 15,
+          "total": 60
+        },
+        "programetes": {
+          "qnt": 0,
+          "tempo": 0,
+          "total": 0
+        },
+        "spots": {
+          "qnt": 0,
+          "total": 0
+        }
+      },
+      "pendente": true
+    }
+  ],
   "locutores": [
     {
       "id": 1,
