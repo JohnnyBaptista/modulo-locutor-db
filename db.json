@@ -99,7 +99,7 @@
     {
       "id": 1,
       "avatar": "https://zos.alipayobjects.com/rmsportal/ODTLcjxAfvqbxHnVXCYX.png",
-      "cover": "https://s3-alpha-sig.figma.com/img/ea3e/ffc9/0a67a23b4c3ce748545897d726021fbd?Expires=1575244800&Signature=I0nCwaD8VzHzAlx646OyvZ~0XvGdOFvSqUzYTqqSiizq98cY85TcO-~tpDQSZGm8smgsa45ivLfulYxBE0gsYd9HLjTPyJg9d22qvgp2KkTCU~VGzz4ii2U3AOM9Nf6Ao0rfGmUGT1jKodk~n2LSddjDQ6lGZZE~~RpxTewaOHu3fHbrF2lS2lsTWblX3IxgQKjSESTT3nDTi7~NKNdELpCrGisedUBSrdbwtZ0Ux35OobhQNH01nHD6QgU1LD1NGYrAW4AuxhpgDv4C8pcExuRCiQRWc6LvSsACB5GHgqvXsmdhSq8GfEu90ldWxbAcTC7LGYjY-Ui~NABbz7ft~A__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA",
+      "cover": "public/img/default-locutor.png",
       "name": "John Doe",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque finibus diam enim, vel laoreet quam venenatis nec.",
       "rate": 4,
@@ -117,7 +117,7 @@
     {
       "id": 3,
       "avatar": "https://zos.alipayobjects.com/rmsportal/ODTLcjxAfvqbxHnVXCYX.png",
-      "cover": "https://s3-alpha-sig.figma.com/img/ea3e/ffc9/0a67a23b4c3ce748545897d726021fbd?Expires=1575244800&Signature=I0nCwaD8VzHzAlx646OyvZ~0XvGdOFvSqUzYTqqSiizq98cY85TcO-~tpDQSZGm8smgsa45ivLfulYxBE0gsYd9HLjTPyJg9d22qvgp2KkTCU~VGzz4ii2U3AOM9Nf6Ao0rfGmUGT1jKodk~n2LSddjDQ6lGZZE~~RpxTewaOHu3fHbrF2lS2lsTWblX3IxgQKjSESTT3nDTi7~NKNdELpCrGisedUBSrdbwtZ0Ux35OobhQNH01nHD6QgU1LD1NGYrAW4AuxhpgDv4C8pcExuRCiQRWc6LvSsACB5GHgqvXsmdhSq8GfEu90ldWxbAcTC7LGYjY-Ui~NABbz7ft~A__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA",
+      "cover": "public/img/default-locutor.png",
       "name": "Phillipe Doe",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque finibus diam enim, vel laoreet quam venenatis nec.",
       "rate": 5,
@@ -126,7 +126,7 @@
     {
       "id": 4,
       "avatar": "https://zos.alipayobjects.com/rmsportal/ODTLcjxAfvqbxHnVXCYX.png",
-      "cover": "https://s3-alpha-sig.figma.com/img/ea3e/ffc9/0a67a23b4c3ce748545897d726021fbd?Expires=1575244800&Signature=I0nCwaD8VzHzAlx646OyvZ~0XvGdOFvSqUzYTqqSiizq98cY85TcO-~tpDQSZGm8smgsa45ivLfulYxBE0gsYd9HLjTPyJg9d22qvgp2KkTCU~VGzz4ii2U3AOM9Nf6Ao0rfGmUGT1jKodk~n2LSddjDQ6lGZZE~~RpxTewaOHu3fHbrF2lS2lsTWblX3IxgQKjSESTT3nDTi7~NKNdELpCrGisedUBSrdbwtZ0Ux35OobhQNH01nHD6QgU1LD1NGYrAW4AuxhpgDv4C8pcExuRCiQRWc6LvSsACB5GHgqvXsmdhSq8GfEu90ldWxbAcTC7LGYjY-Ui~NABbz7ft~A__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA",
+      "cover": "public/img/default-locutor.png",
       "name": "Giovanni Doe",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque finibus diam enim, vel laoreet quam venenatis nec.",
       "rate": 3,
@@ -135,7 +135,7 @@
     {
       "id": 5,
       "avatar": "https://zos.alipayobjects.com/rmsportal/ODTLcjxAfvqbxHnVXCYX.png",
-      "cover": "https://s3-alpha-sig.figma.com/img/ea3e/ffc9/0a67a23b4c3ce748545897d726021fbd?Expires=1575244800&Signature=I0nCwaD8VzHzAlx646OyvZ~0XvGdOFvSqUzYTqqSiizq98cY85TcO-~tpDQSZGm8smgsa45ivLfulYxBE0gsYd9HLjTPyJg9d22qvgp2KkTCU~VGzz4ii2U3AOM9Nf6Ao0rfGmUGT1jKodk~n2LSddjDQ6lGZZE~~RpxTewaOHu3fHbrF2lS2lsTWblX3IxgQKjSESTT3nDTi7~NKNdELpCrGisedUBSrdbwtZ0Ux35OobhQNH01nHD6QgU1LD1NGYrAW4AuxhpgDv4C8pcExuRCiQRWc6LvSsACB5GHgqvXsmdhSq8GfEu90ldWxbAcTC7LGYjY-Ui~NABbz7ft~A__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA",
+      "cover": "public/img/default-locutor.png",
       "name": "John Doe",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque finibus diam enim, vel laoreet quam venenatis nec.",
       "rate": 5,
