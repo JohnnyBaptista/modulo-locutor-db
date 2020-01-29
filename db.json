@@ -99,7 +99,7 @@
     {
       "id": 1,
       "avatar": "https://zos.alipayobjects.com/rmsportal/ODTLcjxAfvqbxHnVXCYX.png",
-      "cover": "public/img/default-locutor.png",
+      "cover": null,
       "name": "John Doe",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque finibus diam enim, vel laoreet quam venenatis nec.",
       "rate": 4,
@@ -117,7 +117,7 @@
     {
       "id": 3,
       "avatar": "https://zos.alipayobjects.com/rmsportal/ODTLcjxAfvqbxHnVXCYX.png",
-      "cover": "public/img/default-locutor.png",
+      "cover": null,
       "name": "Phillipe Doe",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque finibus diam enim, vel laoreet quam venenatis nec.",
       "rate": 5,
@@ -126,7 +126,7 @@
     {
       "id": 4,
       "avatar": "https://zos.alipayobjects.com/rmsportal/ODTLcjxAfvqbxHnVXCYX.png",
-      "cover": "public/img/default-locutor.png",
+      "cover": null,
       "name": "Giovanni Doe",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque finibus diam enim, vel laoreet quam venenatis nec.",
       "rate": 3,
@@ -135,7 +135,7 @@
     {
       "id": 5,
       "avatar": "https://zos.alipayobjects.com/rmsportal/ODTLcjxAfvqbxHnVXCYX.png",
-      "cover": "public/img/default-locutor.png",
+      "cover": null,
       "name": "John Doe",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque finibus diam enim, vel laoreet quam venenatis nec.",
       "rate": 5,
